@@ -19,7 +19,7 @@
 
 ## 🧭 Sobre mí
 
-Soy **Ingeniero de Transportes (UNFV)** especializado en análisis, modelación y optimización de sistemas de transporte urbano. Integro herramientas de **programación, análisis de datos y GIS** para resolver problemas reales de movilidad, seguridad vial y planificación del transporte.
+Soy un estudiante de la carrera de **Ingenieria de Transportes (UNFV)** especializado en análisis, modelación y optimización de sistemas de transporte urbano. Integro herramientas de **programación, análisis de datos y GIS** para resolver problemas reales de movilidad, seguridad vial y planificación del transporte.
 
 Mi enfoque es **data-driven**: combino ingeniería, tecnología y análisis espacial para generar soluciones aplicadas al contexto peruano.
 
